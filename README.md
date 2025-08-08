@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/icons/telegram.png" alt="Telegram" width="48" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:niki@example.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=niki2ta00n4@gmail.com">
     <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/icons/gmail.png" alt="Gmail" width="48" />
   </a>
   &nbsp;&nbsp;
