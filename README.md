@@ -1,6 +1,6 @@
 ## Hi, my name is Nikita and i am web-programmer.  
 - 💬 Ask me about ...
 - 📫 ## Contacts
-- Email: [niki.lastname@example.com](mailto:niki2ta00n4@gmail.com)
-- Telegram: [@niki1tusa](https://t.me/niki_tus)
+- [![Gmail](./assets/icons/gmail.png)](mailto:niki2ta00n4@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-@niki_tus-00ACEE?logo=telegram&logoColor=white&style=flat-square)](https://t.me/niki_tus)
 - ⚡ Fun fact: ...
