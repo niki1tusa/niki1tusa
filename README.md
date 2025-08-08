@@ -1,6 +1,18 @@
 ## Hi, my name is Nikita and i am web-programmer.  
 - 💬 Ask me about ...
 - 📫 ## Contacts
-- [![Gmail](./assets/icons/gmail.png)](mailto:niki2ta00n4@gmail.com)
-- [![Telegram](https://img.shields.io/badge/Telegram-@niki_tus-00ACEE?logo=telegram&logoColor=white&style=flat-square)](https://t.me/niki_tus)
+<p align="center">
+  <a href="https://t.me/niki1tusa" target="_blank">
+    <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/icons/telegram.png" alt="Telegram" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:niki@example.com">
+    <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/icons/gmail.png" alt="Gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/icons/ts.png" alt="TypeScript" width="48" />
+  </a>
+</p>
+
 - ⚡ Fun fact: ...
