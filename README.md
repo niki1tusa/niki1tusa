@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co/5LxGmzP/github-banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/github-header-banner.png" alt="Banner" width="100%" />
 </p>
-
-## Hi, my name is Nikita and I'm a web programmer 👋
 
 - 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, Node.js**
 - 🌱 I’m currently learning **full-stack development**
