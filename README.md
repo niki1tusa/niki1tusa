@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/5LxGmzP/github-banner.png" alt="Banner" width="100%" />
 </p>
 
-## Hi, my name is Nikita and I am a web programmer 👋
+## Hi, my name is Nikita and I'm a web programmer 👋
 
 - 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, Node.js**
 - 🌱 I’m currently learning **full-stack development**
