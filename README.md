@@ -6,11 +6,10 @@
 
 - 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, Node.js**
 - 🌱 I’m currently learning **full-stack development**
-- 📫 You can reach me here:
 
 ## 📬 Contacts
 <p align="center">
-  <a href="https://t.me/niki1tusa" target="_blank">
+  <a href="https://t.me/niki_tus" target="_blank">
     <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/telegram.png" alt="Telegram" width="48" />
   </a>
   &nbsp;&nbsp;
@@ -19,7 +18,6 @@
   </a>
 </p>
 
----
 
 ## 🛠 My Tech Stack
 
@@ -64,7 +62,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -73,14 +70,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki1tusa&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
 
-## 🚀 Pinned Projects
-<p align="center">
-  <a href="https://github.com/niki1tusa/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niki1tusa&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/niki1tusa/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niki1tusa&repo=project2&theme=tokyonight" />
-  </a>
-</p>
+
