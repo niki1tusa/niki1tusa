@@ -1,15 +1,19 @@
+<p align="center">
+  <img src="https://i.ibb.co/5LxGmzP/github-banner.png" alt="Banner" width="100%" />
+</p>
+
 ## Hi, my name is Nikita and I am a web programmer 👋
 
 - 💬 Ask me about **React, TypeScript, Next.js, TailwindCSS, Node.js**
 - 🌱 I’m currently learning **full-stack development**
 - 📫 You can reach me here:
 
-## Contacts
+## 📬 Contacts
 <p align="center">
   <a href="https://t.me/niki1tusa" target="_blank">
     <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/telegram.png" alt="Telegram" width="48" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=niki2ta00n4@gmail.com">
     <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/gmail.png" alt="Gmail" width="48" />
   </a>
@@ -57,5 +61,26 @@
   </a>
   <a href="https://www.prisma.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/prisma.png" alt="Prisma" width="48" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niki1tusa&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki1tusa&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🚀 Pinned Projects
+<p align="center">
+  <a href="https://github.com/niki1tusa/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niki1tusa&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/niki1tusa/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niki1tusa&repo=project2&theme=tokyonight" />
   </a>
 </p>
