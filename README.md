@@ -67,6 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=niki1tusa&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki1tusa&layout=compact&theme=tokyonight" height="165" />
 </p>
+##
 <p>
   <i>
     "Do what you can with what you have, where you are" - Theodore Roosevelt
