@@ -16,6 +16,6 @@ My stack:
 
 - Frontend:
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/icons/ts.png" alt="TypeScript" width="48" />
+    <img src="https://raw.githubusercontent.com/niki1tusa/niki1tusa/main/assets/typescript.png" alt="TypeScript" width="48" />
   </a>
 - Backend: 
